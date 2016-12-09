@@ -49,5 +49,5 @@ This repository contains a json file, which you will use as a data source to con
 ##For your consideration:
   - Most work we do is usually specced out design wise very well, and you will not be left to make design decisions. The purpose of keeping this open ended here is to let those of you with design chops the opportunity to show them off. Lack of design skills is <em>not</em> a disqualifying factor.
   - Although you will not be forced to do design work, your input will be welcomed and appreciated. Ours is a broad, open team. Everyone has a voice. Feel free to have a voice about your efforts, and about this test. We're all in this together. That's a RallyPoint core value.
-  - We use ember at RallyPoint, and are unlikely to change that in the near future. Even if you don't know any ember, you might want to give it a a go. If we know you are unfamiliar, we will probably be imppressed more by the effort than deterred by the lack of specific expertise. The choice is yours.
-  - If you want to take the ember path, you can find it [over here](https://github.com/RallyPointNetworks/hiring-test-fe-ember). 
+  - We use Ember at RallyPoint, and are unlikely to change that in the near future. Even if you don't know any Ember, you might want to give it a go. If we know you are unfamiliar, we will probably be imppressed more by the effort than deterred by the lack of specific expertise. The choice is yours.
+  - If you want to take the Ember path, you can find it [over here](https://github.com/RallyPointNetworks/hiring-test-fe-ember). 
