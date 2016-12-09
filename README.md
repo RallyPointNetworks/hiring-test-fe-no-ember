@@ -2,6 +2,10 @@
 
 This is a repository containing assets and resources for a hiring test at RallyPoint Networks, designed for developers who don't have prior ember experience. If you _do_ have prior Ember experience, consider taking the [Ember Version](https://github.com/RallyPointNetworks/hiring-test-fe-ember) of this test.
 
+##Resource
+
+This repository contains a json file, which you will use as a data source to construct your solution. It is called data.json
+
 ##Fields
   <table>
     <thead>
